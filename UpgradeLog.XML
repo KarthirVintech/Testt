@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Testing">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Testing.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Testing.suo">
+</Property><Property Name="Date" Value="Saturday, January 28, 2012">
+</Property><Property Name="Time" Value="0:02 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Testing.sln" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Testing.suo" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing.suo">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Testing.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\Testing.vbproj">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Form1.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Form1.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Application.myapp" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\My Project\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Backup\Testing\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Testing" Source="Testing\Testing.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Testing.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Testing" Source="Testing\Testing.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Testing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Testing.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Testing" Source="Testing\Testing.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

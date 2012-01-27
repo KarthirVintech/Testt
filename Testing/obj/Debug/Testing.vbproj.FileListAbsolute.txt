@@ -1,0 +1,3 @@
+C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Testing\obj\Debug\Testing.exe
+C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Testing\obj\Debug\Testing.xml
+C:\Documents and Settings\Ranjith\My Documents\Visual Studio 2005\Projects\Testing\Testing\obj\Debug\Testing.pdb
