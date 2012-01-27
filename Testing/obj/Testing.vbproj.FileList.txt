@@ -1,0 +1,10 @@
+bin\Debug\Testing.exe
+bin\Debug\Testing.pdb
+bin\Debug\Testing.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Testing.Form1.resources
+obj\Debug\Testing.Resources.resources
+obj\Debug\Testing.vbproj.GenerateResource.Cache
+obj\Debug\Testing.exe
+obj\Debug\Testing.xml
+obj\Debug\Testing.pdb
